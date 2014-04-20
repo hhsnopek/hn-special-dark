@@ -5,7 +5,7 @@
 	 width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">
 <g>
 	<g>
-		<path fill="#FFFFFF" d="M15,0C6.7,0,0,6.7,0,15s6.7,15,15,15s15-6.7,15-15S23.3,0,15,0z M16.1,17.5V24H14v-6.5L8,8h2.5l4.7,7.6
+		<path fill="#ff8937" d="M15,0C6.7,0,0,6.7,0,15s6.7,15,15,15s15-6.7,15-15S23.3,0,15,0z M16.1,17.5V24H14v-6.5L8,8h2.5l4.7,7.6
 			L19.7,8H22L16.1,17.5z"/>
 	</g>
 </g>
