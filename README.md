@@ -1,6 +1,10 @@
 # HN Special Dark — A Hacker News extension
 A dark version of [gabrielecirulli/hn-special](//github.com/gabrielecirulli/hn-special)
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HHSnopek/tripping-octo-wookie/master/dark-hn-special.png"/>
+</p>
+
 A dark theme and extension for [Hacker News](http://news.ycombinator.com) that improves the look and feel and adds some interesting features.
 
 The available features can be enabled or disabled based on your personal preference. New feature contributions are welcome!
